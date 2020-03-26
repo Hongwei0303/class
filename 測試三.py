@@ -17,7 +17,7 @@ def alltime(i, j, k):
     df_new = df_new.append(df_new)
     # print(df_new)
     df_new.to_csv('G:/test/disney.csv', index=False)
-
+    print()
 for i in range(0, 1):
     x = 1
     y = 1
