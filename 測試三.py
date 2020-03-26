@@ -20,6 +20,8 @@ def alltime(i, j, k):
     print()
     print()
     print()
+    print()
+    print()
 for i in range(0, 1):
     x = 1
     y = 1
